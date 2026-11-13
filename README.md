@@ -5,7 +5,7 @@
 <h2 align="center">Hola, soy Carlos Eduardo Rubio Almonacid 👋</h2>
 
 <p align="center">
-  Desarrollo aplicaciones web y de escritorio, APIs, automatizaciones y soluciones basadas en datos.
+  Soy desarrollador de software junior. He trabajado en aplicaciones web y de escritorio, APIs, automatizaciones y soluciones basadas en datos.
 </p>
 
 <p align="center">
