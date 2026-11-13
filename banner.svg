@@ -221,9 +221,7 @@
         </text>
 
 
-        <text x="1030" y="180" class="subtitle">
-            Python · desktop apps · automation
-        </text>
+        <text x="1030" y="180" class="subtitle">full-stack · observability · automation</text>
 
 
         <line x1="1030" y1="205" x2="1820" y2="205" class="separator" />
@@ -244,47 +242,47 @@
             
             <text x="1030" y="343" class="label">ROLE</text>
 
-            <text x="1245" y="343" class="value">Software Developer · Python</text>
+            <text x="1245" y="343" class="value">Full-Stack Developer · Python</text>
             
             <text x="1030" y="392" class="label">FOCUS</text>
 
-            <text x="1245" y="392" class="value">Desktop apps · data tools</text>
+            <text x="1245" y="392" class="value">Web · Desktop · APIs · Automation</text>
             
-            <text x="1030" y="441" class="label">PROJECTS</text>
+            <text x="1030" y="441" class="label">LANGUAGES</text>
 
-            <text x="1245" y="441" class="value">VacúnateYa · Migrador de vacunas</text>
+            <text x="1245" y="441" class="value">Python · TypeScript · JavaScript · SQL</text>
             
-            <text x="1030" y="490" class="label">GITHUB</text>
+            <text x="1030" y="490" class="label">FRONTEND</text>
 
-            <text x="1245" y="490" class="value">github.com/carlos-rubio-dev</text>
+            <text x="1245" y="490" class="value">React · Vite · Tailwind · Recharts</text>
             
-            <text x="1030" y="539" class="label">LANGUAGES</text>
+            <text x="1030" y="539" class="label">BACKEND</text>
 
-            <text x="1245" y="539" class="value">Python · SQL</text>
+            <text x="1245" y="539" class="value">Flask · FastAPI · SQLAlchemy · Pydantic</text>
             
-            <text x="1030" y="588" class="label">DESKTOP</text>
+            <text x="1030" y="588" class="label">DESKTOP / DATA</text>
 
-            <text x="1245" y="588" class="value">Tkinter · CustomTkinter</text>
+            <text x="1245" y="588" class="value">Tkinter · Pandas · ReportLab · Matplotlib</text>
             
-            <text x="1030" y="637" class="label">LIBRARIES</text>
+            <text x="1030" y="637" class="label">DATABASES</text>
 
-            <text x="1245" y="637" class="value">SQLite · ReportLab</text>
+            <text x="1245" y="637" class="value">SQLite · PostgreSQL · MySQL · TiDB</text>
             
-            <text x="1030" y="686" class="label">DATABASE</text>
+            <text x="1030" y="686" class="label">DEVOPS</text>
 
-            <text x="1245" y="686" class="value">SQLite</text>
+            <text x="1245" y="686" class="value">Docker · Compose · Render · GitHub Actions</text>
             
-            <text x="1030" y="735" class="label">DATA</text>
+            <text x="1030" y="735" class="label">OBSERVABILITY</text>
 
-            <text x="1245" y="735" class="value">Pandas · Excel · ETL</text>
+            <text x="1245" y="735" class="value">Prometheus · Grafana · Jaeger · OpenTelemetry</text>
             
-            <text x="1030" y="784" class="label">TOOLS</text>
+            <text x="1030" y="784" class="label">TESTING</text>
 
-            <text x="1245" y="784" class="value">Git · GitHub · Windows</text>
+            <text x="1245" y="784" class="value">Playwright · k6 · API tests · CI</text>
             
-            <text x="1030" y="833" class="label">INTERESTS</text>
+            <text x="1030" y="833" class="label">AI</text>
 
-            <text x="1245" y="833" class="value">Health tools · automation</text>
+            <text x="1245" y="833" class="value">Ollama · Qwen · Prompt Engineering</text>
             
 
     </svg>
