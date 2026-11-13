@@ -221,7 +221,7 @@
         </text>
 
 
-        <text x="1030" y="180" class="subtitle">full-stack · observability · automation</text>
+        <text x="1030" y="180" class="subtitle">junior developer · automation · learning</text>
 
 
         <line x1="1030" y1="205" x2="1820" y2="205" class="separator" />
@@ -242,7 +242,7 @@
             
             <text x="1030" y="343" class="label">ROLE</text>
 
-            <text x="1245" y="343" class="value">Full-Stack Developer · Python</text>
+            <text x="1245" y="343" class="value">Junior Software Developer · Python</text>
             
             <text x="1030" y="392" class="label">FOCUS</text>
 
